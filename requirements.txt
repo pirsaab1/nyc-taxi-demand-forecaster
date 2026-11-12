@@ -1,0 +1,8 @@
+pandas
+numpy
+lightgbm
+pyarrow
+geopandas
+matplotlib
+imageio-ffmpeg
+requests
